@@ -1,0 +1,5 @@
+# Data Source
+http://insideairbnb.com/get-the-data
+
+# Data Dictionary for listings.csv detailed file
+https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896
